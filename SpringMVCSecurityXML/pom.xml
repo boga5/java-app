@@ -6,7 +6,7 @@
   <artifactId>SpringMVCSecurityXML</artifactId>
   <packaging>war</packaging>
           <!-- Editing below line -->
-  <version>0.0.1-21</version>
+  <version>0.0.1-22-SNAPSHOT</version>
   <name>SpringMVCSecurityXML Maven Webapp</name>
   <url>http://maven.apache.org</url>
  
